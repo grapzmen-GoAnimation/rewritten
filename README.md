@@ -1,2 +1,2 @@
-# rewritten
+# FlashThemes Rewritten
 makes life easier
